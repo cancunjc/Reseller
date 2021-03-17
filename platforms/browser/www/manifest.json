@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Galaxy Resellers",
+  "short_name": "Galaxy Resellers",
+  "version": "com.galaxy.reseller",
+  "description": "Galaxy Reseller App.",
+  "author": "GATech DevTeam",
+  "icons": [],
+  "orientation": "portrait",
+  "start_url": "index.html"
+}
